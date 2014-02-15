@@ -17,3 +17,7 @@ Current plans:
 2) Make a smarter dyn prog table class: right now it is a big mess of vectors and such.
 3) Divide up files so they are more modular.
 
+
+Recently I also added a Haskell implementation.
+It differs substantively from what I found on the internet (though perhaps I simply missed similar implementations).
+Rather than being super-Haskell-y, this code tries to succinctly express the same algorithm using some of the syntactic features of Haskell, namely recursive array declarations and list comprehensions.
