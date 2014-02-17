@@ -10,4 +10,4 @@ pdf:
 	pdflatex cyk.lhs
 
 clean:
-	rm *~ *.o *.hi cyk_cpp cyk_haskell cyk.pdf *.aux *.log
+	rm *~ *.o *.hi cyk_cpp cyk_haskell *.aux *.log
